@@ -19,6 +19,8 @@ public class mobil {
     private String Trade_In_3 = "20001 - 50000";
     private String Trade_In_4 = "50001 - 100000";
     private String Trade_In_5 = "100001 - 500000";
+        
+    System.out.println("Sukses Terus Gan");
 
     
 
